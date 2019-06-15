@@ -1,0 +1,44 @@
+.heder {
+
+	border: solid 2px ;
+	margin: 10px;
+	padding: 10px;
+	color: brown;
+	text-align: center;
+
+}
+
+.menu {
+
+	border: solid 2px ;
+	margin: 10px;
+	padding: 10px;
+	color: brown;
+
+}
+
+.content {
+
+	border: solid 2px ;
+	margin: 10px;
+	padding: 10px;
+	color: brown;
+
+}
+
+.futer {
+
+	border: solid 2px ;
+	margin: 10px;
+	padding: 10px;
+	color: brown;
+
+}
+
+h1 {
+	background-color: aqua;
+	color: red;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+	
